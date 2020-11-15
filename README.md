@@ -1,2 +1,0 @@
-# safeguard
-Safeguard Scholar Site
